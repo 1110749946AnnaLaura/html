@@ -1,0 +1,53 @@
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Divertidamente</title>
+</head>
+
+<body>
+    <header>DIVERTIDAMENTE</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>DIVERTIDAMENTE 2</h1>
+            <p>#divertidamente/p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://youtu.be/LEjhY15eCx0?si=rEOHE4CoSdQ4-QDu"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Filmes e séries</h2>
+        <div class="categoria-videos">
+            <a href="https://youtu.be/dOkyKyVFnSs?si=y9Sa60e5IaogaS5t">
+                <img src="https://youtu.be/gUR8fF5OMBg?si=Zysb2cqvEB9VotlE" />
+            </a>
+            <a href="https://youtu.be/Zf7-lXM7Rk0?si=wmw9taIRpkxA0WuO">
+                <img src="https://youtu.be/7MQ9WWf04ss?si=LOIQrNLKOcfCSOCX" />
+            </a>
+            <a href="https://youtu.be/rEQwbaMCiGs?si=_n0rs7ZmZTONMPFC">
+                <img src="https://youtu.be/XweO_jPS40Q?si=_luP3AN_AqhWA0sP" />
+            </a>
+            <a href="https://youtu.be/BRr6T-434vc?si=wzTAfJ32Na8l9JY7">
+                <img src="https://youtu.be/JXS28OU4l8s?si=X1i31MPWTJ3IRfpA" />
+            </a>
+            <a href="https://youtu.be/pjToDpLRBoI?si=ma7B8j5fWHh0lVmR">
+                <img src="https://youtu.be/6WLQrZO9d4s?si=TmNnEVRA3KjsTdrh" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
